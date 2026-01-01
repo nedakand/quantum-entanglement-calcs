@@ -4,7 +4,7 @@ This project computes polarization correlations for entangled and non-entangled 
 using linear algebra and quantum mechanical operators. It includes calculations of expectation
 values and evaluates Bell inequalities for different polarizer angle configurations.
 
-The code was developed as part the Quantum Entanglement Lab in PHYS340 and demonstrates translating
+The code was developed as part of the Quantum Entanglement Lab in PHYS340 and demonstrates translating
 theoretical quantum mechanics into executable numerical calculations.
 
 ## Features
